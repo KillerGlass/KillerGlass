@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Screenshot](mikas.png)
+![Screenshot](mikas_maior.png)
 <!--
 **KillerGlass/KillerGlass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
