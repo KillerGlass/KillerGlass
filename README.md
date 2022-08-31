@@ -29,9 +29,6 @@ My name is Francisco Jose. And I'm a student of information systems at UFPI
 
 ### Analytics ⚙️
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-lhttps://img.shields.io/badge/OpenCV-27338e?style=for-the-
-20
-angs/?username=killerglass&layout=compact&count_private=true)
 
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=killerglass&count_private=true&show_icons=true)
 
