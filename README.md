@@ -21,6 +21,6 @@ My name is Francisco Jose. And I'm a student of information systems at UFPI
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=killerglass&hide_border=true)
 
 
-#Letś conect
+
  <a href="https://www.linkedin.com/in/francisco-jose-3a26151b0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
