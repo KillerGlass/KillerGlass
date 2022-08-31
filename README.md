@@ -1,21 +1,21 @@
-![Screenshot](zyro-image.png)
 
 
 
-## Oiii eu sou Francisco José e esse é meu mundo de desenvolvilmento!
 
 
-<!--
-**KillerGlass/KillerGlass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1> <hr>
 
-Here are some ideas to get you started:
+My name is Francisco Jose. I work as a avatar at UFPI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=killerglass&repo=killerglass&countColorcountColor)
+
+### Languages & Tools 🛠  
+
+
+### Analytics ⚙️
+
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=killerglass&layout=compact&count_private=true)
+
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=killerglass&count_private=true&show_icons=true)
+
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=killerglass&hide_border=true)
