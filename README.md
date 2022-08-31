@@ -14,7 +14,7 @@ My name is Francisco Jose. And I'm a student of information systems at UFPI
 <div style="display: inline_block"><br>
 3
    <img align="center" alt="Rafa-Python" height="35" width="70" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-   <img align="center" alt="Rafa-Python" height="35" width="70" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"
+   <img align="center" alt="Rafa-Python" height="35" width="70" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
   <img align="center" alt="Rafa-Jupyter" height="35" width="70" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
   <img align="center" alt="Rafa-Opencv" height="35" width="70" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-
 
