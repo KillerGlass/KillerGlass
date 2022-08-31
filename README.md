@@ -5,7 +5,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1> <hr>
 
-My name is Francisco Jose. I work as a avatar at UFPI.
+My name is Francisco Jose. And I'm a student of information systems at UFPI
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=killerglass&repo=killerglass&countColorcountColor)
 
